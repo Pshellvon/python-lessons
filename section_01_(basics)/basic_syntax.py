@@ -45,4 +45,7 @@ print 4 + 4
 
 print "Okaokay ,go to next lesson! And push this changes to server!" #Do dhis
 
+
 print "Now i make conflict ^)))) huh" #Too much evil))
+print "This! IS! A CONFLICT STRING!!!"
+print "and this is a conflict resolution!!!" #Huh, i do this!!!
