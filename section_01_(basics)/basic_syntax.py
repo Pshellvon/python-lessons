@@ -44,3 +44,5 @@ print 4 + 4
 #    print 4 + 4
 
 print "Okaokay ,go to next lesson! And push this changes to server!" #Do dhis
+
+print "This! IS! A CONFLICT STRING!!!"
