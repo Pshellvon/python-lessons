@@ -43,3 +43,4 @@ print 4 + 4
 # So if you uncommented the next line and ran this, you'd get an error.
 #    print 4 + 4
 
+print "Okaokay ,go to next lesson! And push this changes to server!" #Do dhis
