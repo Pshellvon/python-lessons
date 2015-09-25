@@ -14,6 +14,8 @@ print "Or you can have a comment on the same line" # as a command that Python WI
 
 print "The print statement will output some text to the screen." # it doesn't print anything to paper.
 
+print "My first line specialy for my first commit to my OWN git repository" # And also my first comment, huh
+
 # Python will run commands from top to bottom, left to right
 
 # So the print statement on line 11 will run before the print statement on line 13
@@ -33,4 +35,4 @@ print 4 + 4
 # Indentation levels matter a lot, even if other kinds of whitespace like newlines or spacing don't matter as much
 
 # So if you uncommented the next line and ran this, you'd get an error.
-#    print 4 + 4
+print 4 + 4
